@@ -1,0 +1,12 @@
+.contendor-principal{
+box-sizing: border-box;
+
+position: absolute;
+width: 399px;
+height: 550px;
+left: 529px;
+top: 236px;
+
+background: #FFFFFF;
+border: 3px solid #D80808;
+}
